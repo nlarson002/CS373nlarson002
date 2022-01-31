@@ -1,5 +1,4 @@
 ---
-name: 'Nicholas Larson'
 about: 'Ray Tracing'
 title: 'Sparse Sampling for Real-time Ray Tracing'
 labels: Article
